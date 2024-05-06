@@ -1,4 +1,5 @@
 * {
+  background-color: black;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -12,6 +13,7 @@
   transform: translate(-50%, -50%);
   max-width: 100%;
   max-height: 100%;
+  font-family: 'Creepster';
 }
 
 #player,
@@ -23,6 +25,7 @@
 #enemy_fly,
 #enemy_plant,
 #enemy_spider_big,
-#fire {
+#fire,
+#collisionAnimation {
   display: none;
 }
