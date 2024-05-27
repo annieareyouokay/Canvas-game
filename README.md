@@ -6,7 +6,5 @@ Controls:
 * ArrowLeft - move forward
 * ArrowRight - move back 
 * ArrowDown - sit down
-
-Space - attack spinning
-
-d - debug mode
+* Space - attack spinning
+* d - debug mode
